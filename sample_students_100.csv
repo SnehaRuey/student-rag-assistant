@@ -1,0 +1,101 @@
+Name,Roll Number,Department,Degree,Year,Semester,CGPA,Attendance,Skills,Certifications,Projects,Placement Status,Contact Email
+Arun,23CS001,Computer Science and Engineering,B.Tech,3,6,6.85,66,"VLSI, MATLAB, MongoDB",HackerRank Problem Solving,AI Chat Widget,Not Placed,arun.23cs001@example.edu
+Sneha,23AD002,Artificial Intelligence and Data Science,B.Tech,1,2,6.88,98,"Python, Data Visualization, Node.js",Google IT Support,E-commerce Recommendation Engine,Not Placed,sneha.23ad002@example.edu
+Rahul,23CY003,Cyber Security,B.E.,3,6,8.88,70,"Verilog, Kali Linux, Embedded C",Cisco IoT Fundamentals,Campus Event Portal,Placed,rahul.23cy003@example.edu
+Divya,23CE004,Civil Engineering,B.Tech,1,1,6.37,82,"DSA, TensorFlow, Docker",AWS Cloud Practitioner,Chatbot for College Queries,Not Placed,divya.23ce004@example.edu
+Karthik,23CS005,Computer Science and Engineering,B.E.,1,1,9.15,99,"MongoDB, JavaScript, Arduino",NPTEL VLSI Design,Fake News Detection System,Placed,karthik.23cs005@example.edu
+Priya,23AD006,Artificial Intelligence and Data Science,B.Tech,3,6,9.25,66,"IoT, TensorFlow, Metasploit",Microsoft Azure Fundamentals,Traffic Sign Recognition,Not Placed,priya.23ad006@example.edu
+Vishal,23EC007,Electronics and Communication,B.E.,3,6,8.55,64,"DSA, Git, React",HackerRank Problem Solving,Chatbot for College Queries,Placed,vishal.23ec007@example.edu
+Anjali,23EC008,Electronics and Communication,B.E.,4,7,9.76,95,"Django, VLSI, Embedded C",Oracle Java Certified,Weather Forecasting Model,Placed,anjali.23ec008@example.edu
+Mohammed,23CY009,Cyber Security,B.Tech,3,5,7.02,73,"Excel, C++, MongoDB",Google IT Support,Sentiment Analysis Dashboard,Placed,mohammed.23cy009@example.edu
+Lakshmi,23EE010,Electrical and Electronics Engineering,B.E.,4,8,7.01,75,"MATLAB, Data Visualization, TensorFlow",Google IT Support,FPGA Based Traffic Controller,Not Placed,lakshmi.23ee010@example.edu
+Deepak,23IT011,Information Technology,B.E.,2,4,7.94,65,"AWS, SQL, JavaScript",Google Data Analytics,Campus Event Portal,Placed,deepak.23it011@example.edu
+Meera,23IT012,Information Technology,B.Tech,4,7,8.26,89,"Pandas, TensorFlow, Data Visualization",AWS Cloud Practitioner,E-commerce Recommendation Engine,Placed,meera.23it012@example.edu
+Suresh,23ME013,Mechanical Engineering,B.E.,1,1,7.65,89,"Python, MATLAB, MongoDB",Google IT Support,Smart Irrigation System,Placed,suresh.23me013@example.edu
+Kavya,23CS014,Computer Science and Engineering,B.E.,2,4,7.42,70,"Data Visualization, AWS, Excel",HackerRank Problem Solving,Blockchain Voting System,Placed,kavya.23cs014@example.edu
+Ganesh,23CE015,Civil Engineering,B.E.,1,2,9.53,79,"Django, SQL, MongoDB",NPTEL VLSI Design,AI Chat Widget,Placed,ganesh.23ce015@example.edu
+Nithya,23EE016,Electrical and Electronics Engineering,B.Tech,2,4,8.51,95,"React, TensorFlow, Pandas",NPTEL VLSI Design,Network Intrusion Detection Tool,Placed,nithya.23ee016@example.edu
+Ravi,23CY017,Cyber Security,B.E.,4,7,7.66,93,"Metasploit, Machine Learning, Django",IBM Data Science Professional,AI Chat Widget,Not Placed,ravi.23cy017@example.edu
+Pooja,23AD018,Artificial Intelligence and Data Science,B.Tech,2,4,6.27,63,"Django, Power BI, MongoDB",AWS Cloud Practitioner,Traffic Sign Recognition,Not Placed,pooja.23ad018@example.edu
+Arjun,23CS019,Computer Science and Engineering,B.Tech,3,5,6.81,68,"MATLAB, Excel, MongoDB",NPTEL VLSI Design,FPGA Based Traffic Controller,Not Placed,arjun.23cs019@example.edu
+Swathi,23CY020,Cyber Security,B.E.,4,8,6.36,87,"Arduino, Kali Linux, Metasploit",Google IT Support,Student Performance Predictor,Placed,swathi.23cy020@example.edu
+Vijay,23AD021,Artificial Intelligence and Data Science,B.E.,3,6,6.94,72,"Data Visualization, Metasploit, Java",CompTIA Security+,Campus Event Portal,Not Placed,vijay.23ad021@example.edu
+Anitha,23EE022,Electrical and Electronics Engineering,B.Tech,1,1,9.07,95,"Machine Learning, SQL, Git",HackerRank Problem Solving,Traffic Sign Recognition,Placed,anitha.23ee022@example.edu
+Manoj,23CS023,Computer Science and Engineering,B.Tech,2,3,7.85,73,"JavaScript, IoT, MongoDB",AWS Cloud Practitioner,Campus Event Portal,Not Placed,manoj.23cs023@example.edu
+Divya,23AD024,Artificial Intelligence and Data Science,B.E.,3,5,7.08,95,"VLSI, Verilog, Networking",Meta Front-End Developer,Fake News Detection System,Not Placed,divya.23ad024@example.edu
+Sathish,23CY025,Cyber Security,B.Tech,1,1,6.22,97,"Networking, Pandas, Excel",HackerRank Problem Solving,Campus Event Portal,Placed,sathish.23cy025@example.edu
+Roshni,23CS026,Computer Science and Engineering,B.Tech,1,2,8.57,75,"IoT, Machine Learning, MongoDB",NPTEL VLSI Design,Fake News Detection System,Placed,roshni.23cs026@example.edu
+Kiran,23CS027,Computer Science and Engineering,B.E.,3,5,6.78,80,"Django, TensorFlow, IoT",Meta Front-End Developer,E-commerce Recommendation Engine,Not Placed,kiran.23cs027@example.edu
+Yamini,23EE028,Electrical and Electronics Engineering,B.E.,1,2,7.74,96,"Machine Learning, Power BI, Data Visualization",IBM Data Science Professional,Library Management System,Not Placed,yamini.23ee028@example.edu
+Prakash,23EC029,Electronics and Communication,B.E.,1,2,7.4,70,"Metasploit, HTML/CSS, Data Visualization",Google IT Support,Smart Irrigation System,Placed,prakash.23ec029@example.edu
+Bhavya,23ME030,Mechanical Engineering,B.Tech,2,3,6.44,66,"MATLAB, Data Visualization, Java",Cisco IoT Fundamentals,Smart Irrigation System,Placed,bhavya.23me030@example.edu
+Naveen,23CE031,Civil Engineering,B.Tech,3,5,6.95,63,"Power BI, Git, Kali Linux",Cisco IoT Fundamentals,Student Performance Predictor,Placed,naveen.23ce031@example.edu
+Shreya,23CE032,Civil Engineering,B.Tech,3,6,8.82,95,"Verilog, Kali Linux, Data Visualization",AWS Cloud Practitioner,AI Chat Widget,Placed,shreya.23ce032@example.edu
+Ajay,23EC033,Electronics and Communication,B.Tech,3,6,7.63,62,"NLP, Arduino, MongoDB",Oracle Java Certified,Traffic Sign Recognition,Placed,ajay.23ec033@example.edu
+Ramya,23CE034,Civil Engineering,B.Tech,2,4,7.34,95,"MongoDB, JavaScript, Kali Linux",NPTEL VLSI Design,Chatbot for College Queries,Placed,ramya.23ce034@example.edu
+Sanjay,23CY035,Cyber Security,B.Tech,2,3,6.09,81,"Docker, Excel, Kali Linux",Oracle Java Certified,E-commerce Recommendation Engine,Placed,sanjay.23cy035@example.edu
+Keerthi,23ME036,Mechanical Engineering,B.Tech,1,1,9.31,90,"Django, Node.js, HTML/CSS",Coursera Data Analysis with Python,Sentiment Analysis Dashboard,Not Placed,keerthi.23me036@example.edu
+Harish,23CY037,Cyber Security,B.Tech,1,2,7.51,77,"JavaScript, Power BI, AWS",Cisco IoT Fundamentals,Sentiment Analysis Dashboard,Not Placed,harish.23cy037@example.edu
+Vidya,23CE038,Civil Engineering,B.Tech,1,1,6.68,76,"SQL, Machine Learning, DSA",CompTIA Security+,Sentiment Analysis Dashboard,Not Placed,vidya.23ce038@example.edu
+Dinesh,23IT039,Information Technology,B.Tech,4,8,6.97,87,"Python, Pandas, Excel",Oracle Java Certified,Library Management System,Placed,dinesh.23it039@example.edu
+Sowmya,23CE040,Civil Engineering,B.E.,1,1,8.37,67,"MATLAB, MongoDB, NLP",HackerRank Problem Solving,Smart Irrigation System,Not Placed,sowmya.23ce040@example.edu
+Ashok,23CE041,Civil Engineering,B.E.,3,6,6.73,84,"VLSI, MATLAB, MongoDB",Meta Front-End Developer,FPGA Based Traffic Controller,Not Placed,ashok.23ce041@example.edu
+Preethi,23IT042,Information Technology,B.Tech,3,5,6.8,97,"DSA, Git, Embedded C",Coursera Data Analysis with Python,Attendance Prediction Model,Not Placed,preethi.23it042@example.edu
+Vignesh,23CY043,Cyber Security,B.E.,2,4,7.08,99,"Embedded C, Power BI, HTML/CSS",Oracle Java Certified,Fake News Detection System,Not Placed,vignesh.23cy043@example.edu
+Nandhini,23CY044,Cyber Security,B.Tech,2,4,6.18,90,"DSA, JavaScript, AWS",Google Data Analytics,Attendance Prediction Model,Not Placed,nandhini.23cy044@example.edu
+Balaji,23CY045,Cyber Security,B.E.,4,7,6.93,60,"MongoDB, AWS, JavaScript",Oracle Java Certified,Blockchain Voting System,Placed,balaji.23cy045@example.edu
+Aishwarya,23IT046,Information Technology,B.Tech,2,3,6.19,75,"Excel, JavaScript, Machine Learning",Coursera Data Analysis with Python,Campus Event Portal,Not Placed,aishwarya.23it046@example.edu
+Senthil,23CE047,Civil Engineering,B.E.,4,7,9.41,90,"Metasploit, TensorFlow, AWS",IBM Data Science Professional,Traffic Sign Recognition,Not Placed,senthil.23ce047@example.edu
+Gayathri,23EE048,Electrical and Electronics Engineering,B.Tech,3,5,6.29,78,"Django, TensorFlow, Embedded C",DeepLearning.AI TensorFlow Developer,Blockchain Voting System,Placed,gayathri.23ee048@example.edu
+Rajesh,23EC049,Electronics and Communication,B.Tech,2,3,8.64,73,"Power BI, Kali Linux, Embedded C",HackerRank Problem Solving,Attendance Prediction Model,Not Placed,rajesh.23ec049@example.edu
+Monisha,23AD050,Artificial Intelligence and Data Science,B.Tech,4,7,9.44,97,"Verilog, Python, JavaScript",Oracle Java Certified,FPGA Based Traffic Controller,Not Placed,monisha.23ad050@example.edu
+Prabhu,23EE051,Electrical and Electronics Engineering,B.Tech,3,5,8.86,86,"Data Visualization, MATLAB, Docker",NPTEL VLSI Design,Blockchain Voting System,Placed,prabhu.23ee051@example.edu
+Vaishnavi,23EE052,Electrical and Electronics Engineering,B.Tech,3,5,7.85,84,"Embedded C, VLSI, Docker",CompTIA Security+,Chatbot for College Queries,Placed,vaishnavi.23ee052@example.edu
+Karan,23EE053,Electrical and Electronics Engineering,B.Tech,1,1,8.25,61,"Power BI, Git, Kali Linux",Meta Front-End Developer,Traffic Sign Recognition,Not Placed,karan.23ee053@example.edu
+Sindhu,23EC054,Electronics and Communication,B.Tech,3,5,7.24,89,"Embedded C, AWS, MongoDB",CompTIA Security+,Smart Irrigation System,Not Placed,sindhu.23ec054@example.edu
+Mahesh,23ME055,Mechanical Engineering,B.Tech,4,8,8.85,63,"Arduino, Django, Git",Google Data Analytics,Weather Forecasting Model,Placed,mahesh.23me055@example.edu
+Aarthi,23AD056,Artificial Intelligence and Data Science,B.Tech,2,4,8.36,75,"Java, Networking, VLSI",Google Data Analytics,FPGA Based Traffic Controller,Placed,aarthi.23ad056@example.edu
+Selvam,23EE057,Electrical and Electronics Engineering,B.E.,3,6,8.3,67,"AWS, HTML/CSS, React",Cisco IoT Fundamentals,AI Chat Widget,Placed,selvam.23ee057@example.edu
+Padma,23ME058,Mechanical Engineering,B.E.,4,8,6.29,75,"Machine Learning, Verilog, AWS",Cisco IoT Fundamentals,Traffic Sign Recognition,Placed,padma.23me058@example.edu
+Vikram,23AD059,Artificial Intelligence and Data Science,B.E.,4,7,6.26,81,"Python, JavaScript, Kali Linux",Coursera Data Analysis with Python,AI Chat Widget,Not Placed,vikram.23ad059@example.edu
+Radhika,23CE060,Civil Engineering,B.E.,2,3,6.67,93,"Git, TensorFlow, DSA",Oracle Java Certified,Blockchain Voting System,Not Placed,radhika.23ce060@example.edu
+Gopal,23EE061,Electrical and Electronics Engineering,B.E.,3,5,9.24,65,"TensorFlow, MongoDB, Metasploit",IBM Data Science Professional,Weather Forecasting Model,Not Placed,gopal.23ee061@example.edu
+Suja,23IT062,Information Technology,B.E.,1,1,9.23,71,"Networking, Node.js, Arduino",Oracle Java Certified,Smart Irrigation System,Not Placed,suja.23it062@example.edu
+Dhanush,23ME063,Mechanical Engineering,B.E.,1,2,6.33,86,"Networking, Data Visualization, AWS",IBM Data Science Professional,Chatbot for College Queries,Not Placed,dhanush.23me063@example.edu
+Renuka,23EE064,Electrical and Electronics Engineering,B.E.,1,2,7.12,85,"Verilog, Django, NLP",Microsoft Azure Fundamentals,FPGA Based Traffic Controller,Not Placed,renuka.23ee064@example.edu
+Anand,23EE065,Electrical and Electronics Engineering,B.E.,4,7,7.34,89,"TensorFlow, NLP, Django",Google Data Analytics,Chatbot for College Queries,Placed,anand.23ee065@example.edu
+Malini,23CE066,Civil Engineering,B.Tech,2,4,6.82,90,"TensorFlow, MATLAB, C++",Oracle Java Certified,Library Management System,Not Placed,malini.23ce066@example.edu
+Kumar,23CS067,Computer Science and Engineering,B.Tech,3,6,7.37,79,"Python, Verilog, Data Visualization",Meta Front-End Developer,Smart Irrigation System,Placed,kumar.23cs067@example.edu
+Sangeetha,23AD068,Artificial Intelligence and Data Science,B.E.,2,3,6.39,60,"C++, NLP, Networking",Coursera Data Analysis with Python,Attendance Prediction Model,Not Placed,sangeetha.23ad068@example.edu
+Baskar,23EC069,Electronics and Communication,B.Tech,3,5,6.43,64,"IoT, Networking, Power BI",NPTEL VLSI Design,E-commerce Recommendation Engine,Placed,baskar.23ec069@example.edu
+Uma,23EC070,Electronics and Communication,B.Tech,3,6,9.78,67,"Data Visualization, AWS, Kali Linux",NPTEL VLSI Design,FPGA Based Traffic Controller,Placed,uma.23ec070@example.edu
+Chandran,23IT071,Information Technology,B.E.,4,7,9.27,87,"NLP, C++, DSA",AWS Cloud Practitioner,FPGA Based Traffic Controller,Placed,chandran.23it071@example.edu
+Latha,23CY072,Cyber Security,B.Tech,3,6,6.6,71,"Data Visualization, Power BI, React",AWS Cloud Practitioner,Network Intrusion Detection Tool,Not Placed,latha.23cy072@example.edu
+Elango,23EE073,Electrical and Electronics Engineering,B.E.,1,2,7.09,78,"Verilog, JavaScript, Metasploit",Google Data Analytics,E-commerce Recommendation Engine,Placed,elango.23ee073@example.edu
+Vani,23ME074,Mechanical Engineering,B.Tech,4,8,8.07,69,"Excel, TensorFlow, HTML/CSS",Meta Front-End Developer,AI Chat Widget,Placed,vani.23me074@example.edu
+Farooq,23EC075,Electronics and Communication,B.E.,3,5,6.47,79,"Verilog, IoT, TensorFlow",HackerRank Problem Solving,Library Management System,Not Placed,farooq.23ec075@example.edu
+Rekha,23EE076,Electrical and Electronics Engineering,B.Tech,1,1,8.79,98,"TensorFlow, Python, Power BI",IBM Data Science Professional,E-commerce Recommendation Engine,Placed,rekha.23ee076@example.edu
+Girish,23ME077,Mechanical Engineering,B.Tech,2,3,7.97,88,"Excel, TensorFlow, React",NPTEL VLSI Design,Network Intrusion Detection Tool,Not Placed,girish.23me077@example.edu
+Sujatha,23CS078,Computer Science and Engineering,B.E.,3,5,7.27,66,"JavaScript, React, Embedded C",CompTIA Security+,Chatbot for College Queries,Not Placed,sujatha.23cs078@example.edu
+Hari,23ME079,Mechanical Engineering,B.E.,1,1,6.33,76,"Embedded C, Machine Learning, AWS",CompTIA Security+,Traffic Sign Recognition,Placed,hari.23me079@example.edu
+Tara,23EE080,Electrical and Electronics Engineering,B.E.,1,2,7.97,99,"AWS, Networking, Git",Coursera Data Analysis with Python,Weather Forecasting Model,Placed,tara.23ee080@example.edu
+Ismail,23CY081,Cyber Security,B.E.,2,3,7.66,91,"Machine Learning, Python, Git",NPTEL VLSI Design,Weather Forecasting Model,Placed,ismail.23cy081@example.edu
+Usha,23EC082,Electronics and Communication,B.E.,1,1,6.35,67,"Metasploit, Machine Learning, Git",Meta Front-End Developer,Attendance Prediction Model,Not Placed,usha.23ec082@example.edu
+Jagan,23ME083,Mechanical Engineering,B.E.,4,7,6.93,95,"Java, IoT, Node.js",NPTEL VLSI Design,Library Management System,Placed,jagan.23me083@example.edu
+Valli,23CS084,Computer Science and Engineering,B.E.,4,7,9.55,92,"TensorFlow, HTML/CSS, Python",Cisco IoT Fundamentals,Chatbot for College Queries,Not Placed,valli.23cs084@example.edu
+Kannan,23EE085,Electrical and Electronics Engineering,B.Tech,4,7,7.31,95,"AWS, Data Visualization, IoT",Coursera Data Analysis with Python,Blockchain Voting System,Not Placed,kannan.23ee085@example.edu
+Wafa,23CY086,Cyber Security,B.Tech,4,8,9.25,86,"SQL, Embedded C, MATLAB",Coursera Data Analysis with Python,Chatbot for College Queries,Not Placed,wafa.23cy086@example.edu
+Loganathan,23IT087,Information Technology,B.Tech,4,8,6.48,97,"Embedded C, JavaScript, Machine Learning",Coursera Data Analysis with Python,AI Chat Widget,Not Placed,loganathan.23it087@example.edu
+Xitija,23AD088,Artificial Intelligence and Data Science,B.Tech,4,8,6.28,76,"Embedded C, DSA, Verilog",CompTIA Security+,E-commerce Recommendation Engine,Placed,xitija.23ad088@example.edu
+Murugan,23CE089,Civil Engineering,B.E.,3,5,9.32,62,"DSA, Power BI, Django",Microsoft Azure Fundamentals,E-commerce Recommendation Engine,Not Placed,murugan.23ce089@example.edu
+Yashini,23CY090,Cyber Security,B.Tech,4,8,8.89,66,"Metasploit, React, Verilog",Cisco IoT Fundamentals,Blockchain Voting System,Placed,yashini.23cy090@example.edu
+Nagaraj,23AD091,Artificial Intelligence and Data Science,B.E.,1,1,7.36,87,"Java, Django, Pandas",CompTIA Security+,FPGA Based Traffic Controller,Placed,nagaraj.23ad091@example.edu
+Zara,23EC092,Electronics and Communication,B.Tech,1,1,8.35,75,"Networking, Excel, C++",Meta Front-End Developer,Fake News Detection System,Not Placed,zara.23ec092@example.edu
+Om,23ME093,Mechanical Engineering,B.E.,3,6,9.42,89,"MongoDB, NLP, VLSI",HackerRank Problem Solving,Campus Event Portal,Placed,om.23me093@example.edu
+Aparna,23EE094,Electrical and Electronics Engineering,B.E.,3,5,8.62,89,"JavaScript, NLP, Node.js",CompTIA Security+,Traffic Sign Recognition,Not Placed,aparna.23ee094@example.edu
+Pandian,23CS095,Computer Science and Engineering,B.Tech,4,7,8.18,78,"Python, HTML/CSS, VLSI",CompTIA Security+,Smart Irrigation System,Placed,pandian.23cs095@example.edu
+Bhuvana,23AD096,Artificial Intelligence and Data Science,B.E.,3,6,8.31,82,"Django, Git, Node.js",NPTEL VLSI Design,Smart Irrigation System,Placed,bhuvana.23ad096@example.edu
+Qadir,23CS097,Computer Science and Engineering,B.Tech,3,5,6.13,83,"MATLAB, Java, Power BI",Cisco IoT Fundamentals,Sentiment Analysis Dashboard,Not Placed,qadir.23cs097@example.edu
+Chitra,23EC098,Electronics and Communication,B.Tech,2,3,8.02,77,"HTML/CSS, React, TensorFlow",Coursera Data Analysis with Python,Weather Forecasting Model,Not Placed,chitra.23ec098@example.edu
+Ravindra,23CE099,Civil Engineering,B.Tech,4,8,6.53,74,"JavaScript, VLSI, MATLAB",Microsoft Azure Fundamentals,Network Intrusion Detection Tool,Not Placed,ravindra.23ce099@example.edu
+Devika,23CS100,Computer Science and Engineering,B.E.,1,1,8.04,89,"Arduino, VLSI, MATLAB",Microsoft Azure Fundamentals,Smart Irrigation System,Not Placed,devika.23cs100@example.edu
